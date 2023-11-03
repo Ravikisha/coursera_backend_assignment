@@ -1,3 +1,4 @@
+![Poster](./docs/docs.jpg)
 # Coursera Backend Assessment 📚
 
 ## Project Name: Express Book API 📖
@@ -10,7 +11,7 @@ The Coursera Backend Assessment is an Express.js-based application that combines
 
 ## Project Links 🔗
 
-- [Source Code](https://github.com/ravikisha/coursera-backend-assessment) [![GitHub](https://img.shields.io/badge/GitHub-Repository-green)](https://github.com/your-username/coursera-backend-assessment)
+- [Source Code](https://github.com/Ravikisha/Coursera-Backend-Assignment.git) [![GitHub](https://img.shields.io/badge/GitHub-Repository-green)](https://github.com/Ravikisha/Coursera-Backend-Assignment.git)
 
 ## Technologies Used 🛠️
 
@@ -27,7 +28,7 @@ To run this project locally, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/coursera-backend-assessment.git
+   git clone https://github.com/Ravikisha/Coursera-Backend-Assignment.git
    cd coursera-backend-assessment
    ```
 
