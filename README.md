@@ -1,5 +1,7 @@
 ![Poster](./docs/docs.jpg)
 # Coursera Backend Assessment 📚
+[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/)
+
 
 ## Project Name: Express Book API 📖
 
